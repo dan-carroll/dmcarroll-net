@@ -1,0 +1,28 @@
+url: "https://www.dmcarroll.net/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Dan's Gateway" # the name of your site, e.g. ACME Corp.
+email: dan@dmcarroll.net
+description: "Gateway page for Dan Carroll"
+author: "Dan Carroll, Florida, USA"
+copyright: "Copyright 2013-2021. Daniel M. Carroll. All Rights Reserved."
+rating: General
+
+twitter: https://twitter.com/FloriDanOnline
+twitter_username: FloriDanOnline
+github: https://github.com/dan-carroll
+github_username: dan-carroll
+facebook: https://www.facebook.com/floridan/
+facebook_username: FloriDan
+instagram: https://www.instagram.com/dcarroll809/
+instagram_username: dcarroll809
+linkedin: https://www.linkedin.com/in/dan-carroll-in-florida/
+linkedin_username: dan-carroll-in-florida
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# Google analytics
+google_analytics: G-FWRRPHVQCQ
